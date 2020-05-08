@@ -1,4 +1,19 @@
-This is the gatsby-blog-starter-mdx. It has support for .mdx files. It also has backwards compatibility for plain .md (markdown) files. A demo file is included in `./content/blog/mdx-test/`. Other than that, files should be mostly the same as the original gatsby-blog-starter.
+<h1 align="center">
+  gatsby-blog-starter-mdx
+</h1>
+
+This is `gatsby-blog-starter-mdx`. It has support for .mdx files. It also has backwards compatibility for plain .md (markdown) files. A demo file is included in `./content/blog/mdx-test/`. Other than that, files should be mostly the same as the original gatsby-blog-starter.
+
+You can use it in your own project with:
+
+```
+npx gatsby new gatsby-blog-starter-mdx https://github.com/grobelDev/gatsby-blog-starter-mdx
+```
+
+You can find other things I've written at
+[my website](https://grobel.dev).
+
+---
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
