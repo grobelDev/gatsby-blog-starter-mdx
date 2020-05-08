@@ -2,6 +2,8 @@
   gatsby-blog-starter-mdx
 </h1>
 
+[Demo.](https://gatsby-blog-mdx-zxc6fpw5uq-uc.a.run.app/)
+
 This is `gatsby-blog-starter-mdx`.
 
 It has support for `.mdx` files and also has backwards compatibility for regular `.md` (markdown) files.
