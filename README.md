@@ -1,3 +1,5 @@
+This is the gatsby-blog-starter-mdx. It has support for .mdx files. It also has backwards compatibility for plain .md (markdown) files. A demo file is included in `./content/blog/mdx-test/`. Other than that, files should be mostly the same as the original gatsby-blog-starter.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
