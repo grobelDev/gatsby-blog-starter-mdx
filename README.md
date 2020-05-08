@@ -2,7 +2,7 @@
   gatsby-blog-starter-mdx
 </h1>
 
-[Demo.](https://gatsby-blog-mdx-zxc6fpw5uq-uc.a.run.app/)
+[Demo Page](https://gatsby-blog-mdx-zxc6fpw5uq-uc.a.run.app/)
 
 This is `gatsby-blog-starter-mdx`.
 
