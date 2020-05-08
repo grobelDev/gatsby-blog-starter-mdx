@@ -2,9 +2,11 @@
   gatsby-blog-starter-mdx
 </h1>
 
-This is `gatsby-blog-starter-mdx`. It has support for `.mdx` files. It also has backwards compatibility for plain `.md` (markdown) files.
+This is `gatsby-blog-starter-mdx`.
 
-A demo file is included in the `./content/blog/mdx-test/` directory.
+It has support for `.mdx` files and also has backwards compatibility for `.md` (markdown) files.
+
+Some demo files are included in the `./content/blog/mdx-test/` directory.
 
 Other than that, files should be mostly the same as the original `gatsby-blog-starter`.
 
@@ -14,8 +16,8 @@ You can use it in your own project with:
 npx gatsby new gatsby-blog-starter-mdx https://github.com/grobelDev/gatsby-blog-starter-mdx
 ```
 
-You can find other things I've written at
-[my website](https://grobel.dev).
+You can find other things I've written at:  
+https://grobel.dev
 
 ---
 
