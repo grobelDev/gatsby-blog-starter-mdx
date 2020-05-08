@@ -4,7 +4,7 @@
 
 This is `gatsby-blog-starter-mdx`.
 
-It has support for `.mdx` files and also has backwards compatibility for `.md` (markdown) files.
+It has support for `.mdx` files and also has backwards compatibility for regular `.md` (markdown) files.
 
 Some demo files are included in the `./content/blog/mdx-test/` directory.
 
