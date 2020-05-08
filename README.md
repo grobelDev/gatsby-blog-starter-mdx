@@ -2,7 +2,7 @@
   gatsby-blog-starter-mdx
 </h1>
 
-This is `gatsby-blog-starter-mdx`. It has support for .mdx files. It also has backwards compatibility for plain .md (markdown) files. A demo file is included in `./content/blog/mdx-test/`. Other than that, files should be mostly the same as the original gatsby-blog-starter.
+This is `gatsby-blog-starter-mdx`. It has support for `mdx` files. It also has backwards compatibility for plain `md` (markdown) files. A demo file is included in `./content/blog/mdx-test/`. Other than that, files should be mostly the same as the original `gatsby-blog-starter`.
 
 You can use it in your own project with:
 
